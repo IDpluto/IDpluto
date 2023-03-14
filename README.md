@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDpluto&show_icons=true&theme=outrun)
+![Anurag's GitHub stats](https://github-readme-RepoCard.vercel.app/api?username=IDpluto&show_icons=true&theme=outrun)
 
 <!--
 **IDpluto/IDpluto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
