@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="63">
 <br><br>
 <h3>📘 Non Language 📘</h3>
-<img src="https://img.shields.io/badge/Fusion360-orange?style=flat"width="65"/>
+<img src="https://img.shields.io/badge/Autodesk Fusion 360-orange?style=flat"width="120"/>
 <img src="https://img.shields.io/badge/3D Printing Technologies-blue?style=flat"width="150"/>
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width="80"/>
 <div>
