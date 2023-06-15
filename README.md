@@ -39,10 +39,11 @@
 <img src="https://img.shields.io/badge/Fusion360-orange?style=flat"width="65"/>
 <img src="https://img.shields.io/badge/3D Printing Technologies-blue?style=flat"width="150"/>
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width="80"/>
-
+<div>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="80">
 <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" width="90">
 <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" width="82">
+</div>
 <br>
 <br>
 <h2>🔥 Interested 🔥</h2>
