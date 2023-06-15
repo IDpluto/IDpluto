@@ -28,13 +28,10 @@
 <br>
 <h2>📚 Tech Stack 📚</h2>
 <hr/>
-<br>
 <h3>📗 Language 📗</h3>
-
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="85">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="63">
-
-<br>
+<br><br>
 <h3>📘 Non Language 📘</h3>
 <img src="https://img.shields.io/badge/Fusion360-orange?style=flat"width="65"/>
 <img src="https://img.shields.io/badge/3D Printing Technologies-blue?style=flat"width="150"/>
@@ -45,10 +42,8 @@
 <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" width="82">
 </div>
 <br>
-<br>
-<h2>🔥 Interested 🔥</h2>
-<hr/>
-<br>
+<h3>🔥 Interested 🔥</h3>
+
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" width="80">
 <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" width="70">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" width="52">
