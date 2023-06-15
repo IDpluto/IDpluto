@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=HI!%20I'm%20IDpluto!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=HI!%20I'm%20IDpluto!&fontSize=75)
 
 <div align="center">
 <div>
